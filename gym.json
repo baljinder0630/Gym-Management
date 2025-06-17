@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "gym": {
+      "command": "python",
+      "args": [
+        "gym.py"
+      ],
+      "cwd": "."
+    }
+  }
+}
